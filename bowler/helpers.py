@@ -6,6 +6,9 @@
 # LICENSE file in the root directory of this source tree.
 # and this is new
 
+def important_fucn():
+    return 1
+
 import logging
 from typing import List, Optional, Sequence, Union
 
