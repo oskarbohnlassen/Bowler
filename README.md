@@ -24,7 +24,7 @@ there's no way to match against a specific revision of the grammar.
 
 If you need to do codemods today, we recommend looking at 
 [LibCST codemods](https://libcst.readthedocs.io/en/stable/codemods_tutorial.html) which
-are a bit more verbose, but work well on modern python grammars.  We have contributed
+are a bit more verbose, but work well on modern Python grammars.  We have contributed
 [support for Python 3.0-3.3 grammars](https://github.com/Instagram/LibCST/pull/261)
 and have a draft PR going even further [back to 2.3](https://github.com/Instagram/LibCST/pull/275).
 
